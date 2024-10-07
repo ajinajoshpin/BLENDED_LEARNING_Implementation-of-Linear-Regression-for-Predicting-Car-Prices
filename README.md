@@ -17,7 +17,7 @@ To write a program to predict car prices using a linear regression model and tes
 ```
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: 
+Developed by: AJINA JOSHPIN.A
 RegisterNumber:  
 */
 ```
@@ -51,7 +51,9 @@ plt.plot([y.min(), y.max()], [y.min(), y.max()], 'k--', lw=2)
 plt.show()
 ```
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://github.com/user-attachments/assets/9ff11213-1920-4a2c-9e93-ee3b31354f7b)
+
+![image](https://github.com/user-attachments/assets/2fd6e717-ed41-4bb2-b66b-fc462ff24a5d)
 
 
 ## Result:
